@@ -68,3 +68,5 @@
 * Initial release of Firebase Crashlytics plugin.
 This version reports uncaught errors as non-fatal exceptions in the
 Firebase console.
+
+test
